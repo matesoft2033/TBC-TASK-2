@@ -1,0 +1,37 @@
+#main {
+	width:115px;
+	height:34px;
+	top:143px;
+	left:104px;
+	font-weight:700;
+	font-size:24px;
+	line-height:28.8px;
+	color:#4E6FAE;
+}
+.news {
+	width:144px;
+	height:34px;
+	top:191px;
+	left:104px;
+	font-weight:700;
+	font-size:24px;
+	line-height:28.8px;
+	color:#8D81FF;
+}
+.contact {
+	width:133px;
+	height:34px;
+	top:239px;
+	left:104px;
+	font-weight:700;
+	font-size:24px;
+	line-height:28.8px;
+	color:#8D81FF;
+}
+a {
+	text-decoration:none;
+}
+ul {
+	list-style:none;
+}
+
